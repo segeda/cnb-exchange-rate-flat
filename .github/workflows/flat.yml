@@ -19,5 +19,10 @@ jobs:
       - name: Fetch TXT data
         uses: githubocto/flat@v3
         with:
-          http_url: denni_kurz.txt
-          downloaded_filename: https://www.cnb.cz/cs/financni-trhy/devizovy-trh/kurzy-devizoveho-trhu/kurzy-devizoveho-trhu/denni_kurz.txt
+          http_url: https://www.cnb.cz/cs/financni-trhy/devizovy-trh/kurzy-devizoveho-trhu/kurzy-devizoveho-trhu/denni_kurz.txt
+          downloaded_filename: denni_kurz.txt
+      - name: Fetch XML data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://www.cnb.cz/cs/financni-trhy/devizovy-trh/kurzy-devizoveho-trhu/kurzy-devizoveho-trhu/denni_kurz.xml
+          downloaded_filename: denni_kurz.xml
