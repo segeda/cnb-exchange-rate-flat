@@ -1,4 +1,4 @@
-name: data
+name: Flat
 on:
   schedule:
     - cron: 0 0 * * *
@@ -16,11 +16,6 @@ jobs:
           deno-version: v1.x
       - name: Check out repo
         uses: actions/checkout@v2
-      - name: Fetch XML data
-        uses: githubocto/flat@v3
-        with:
-          http_url: denni_kurz.xml
-          downloaded_filename: https://www.cnb.cz/cs/financni-trhy/devizovy-trh/kurzy-devizoveho-trhu/kurzy-devizoveho-trhu/denni_kurz.xml
       - name: Fetch TXT data
         uses: githubocto/flat@v3
         with:
