@@ -1,5 +1,5 @@
 13.08.2021 #156
-země|měna|množství|kód|kurz
+Country|Currency|Amount|Code|Rate
 Austrálie|dolar|1|AUD|15,859
 Brazílie|real|1|BRL|4,123
 Bulharsko|lev|1|BGN|12,978
