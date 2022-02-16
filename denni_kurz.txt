@@ -1,35 +1,35 @@
-14.02.2022 #31
+15.02.2022 #32
 země|měna|množství|kód|kurz
-Austrálie|dolar|1|AUD|15,428
-Brazílie|real|1|BRL|4,161
-Bulharsko|lev|1|BGN|12,543
-Čína|žen-min-pi|1|CNY|3,412
-Dánsko|koruna|1|DKK|3,297
-EMU|euro|1|EUR|24,535
-Filipíny|peso|100|PHP|42,207
-Hongkong|dolar|1|HKD|2,778
-Chorvatsko|kuna|1|HRK|3,259
-Indie|rupie|100|INR|28,698
-Indonesie|rupie|1000|IDR|1,513
-Island|koruna|100|ISK|17,205
-Izrael|nový šekel|1|ILS|6,658
-Japonsko|jen|100|JPY|18,781
-Jižní Afrika|rand|1|ZAR|1,431
-Kanada|dolar|1|CAD|16,999
-Korejská republika|won|100|KRW|1,811
-Maďarsko|forint|100|HUF|6,867
-Malajsie|ringgit|1|MYR|5,173
-Mexiko|peso|1|MXN|1,060
-MMF|ZPČ|1|XDR|30,396
-Norsko|koruna|1|NOK|2,438
-Nový Zéland|dolar|1|NZD|14,334
-Polsko|zlotý|1|PLN|5,404
-Rumunsko|leu|1|RON|4,960
-Rusko|rubl|100|RUB|28,425
-Singapur|dolar|1|SGD|16,089
-Švédsko|koruna|1|SEK|2,312
-Švýcarsko|frank|1|CHF|23,427
-Thajsko|baht|100|THB|66,716
-Turecko|lira|1|TRY|1,598
-USA|dolar|1|USD|21,676
-Velká Británie|libra|1|GBP|29,305
+Austrálie|dolar|1|AUD|15,370
+Brazílie|real|1|BRL|4,141
+Bulharsko|lev|1|BGN|12,485
+Čína|žen-min-pi|1|CNY|3,394
+Dánsko|koruna|1|DKK|3,281
+EMU|euro|1|EUR|24,420
+Filipíny|peso|100|PHP|42,004
+Hongkong|dolar|1|HKD|2,759
+Chorvatsko|kuna|1|HRK|3,243
+Indie|rupie|100|INR|28,582
+Indonesie|rupie|1000|IDR|1,505
+Island|koruna|100|ISK|17,295
+Izrael|nový šekel|1|ILS|6,673
+Japonsko|jen|100|JPY|18,615
+Jižní Afrika|rand|1|ZAR|1,422
+Kanada|dolar|1|CAD|16,920
+Korejská republika|won|100|KRW|1,799
+Maďarsko|forint|100|HUF|6,873
+Malajsie|ringgit|1|MYR|5,142
+Mexiko|peso|1|MXN|1,056
+MMF|ZPČ|1|XDR|30,122
+Norsko|koruna|1|NOK|2,420
+Nový Zéland|dolar|1|NZD|14,246
+Polsko|zlotý|1|PLN|5,421
+Rumunsko|leu|1|RON|4,942
+Rusko|rubl|100|RUB|28,557
+Singapur|dolar|1|SGD|16,000
+Švédsko|koruna|1|SEK|2,309
+Švýcarsko|frank|1|CHF|23,294
+Thajsko|baht|100|THB|66,564
+Turecko|lira|1|TRY|1,579
+USA|dolar|1|USD|21,527
+Velká Británie|libra|1|GBP|29,153
