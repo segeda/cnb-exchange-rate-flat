@@ -1,5 +1,5 @@
-import { parse } from "https://deno.land/x/xml@v1.0.2/mod.ts"
-import { readTXT, readJSON, writeJSON } from "https://deno.land/x/flat@0.0.11/mod.ts"
+import { parse } from "https://deno.land/x/xml@2.0.4/mod.ts"
+import { readTXT, readJSON, writeJSON } from "https://deno.land/x/flat@0.0.14/mod.ts"
 
 const denni_kurz_filename = Deno.args[0]
 const history_filename = 'history.json'
