@@ -1,35 +1,35 @@
-16.02.2022 #33
+17.02.2022 #34
 země|měna|množství|kód|kurz
-Austrálie|dolar|1|AUD|15,362
-Brazílie|real|1|BRL|4,146
-Bulharsko|lev|1|BGN|12,456
-Čína|žen-min-pi|1|CNY|3,380
-Dánsko|koruna|1|DKK|3,274
-EMU|euro|1|EUR|24,365
-Filipíny|peso|100|PHP|41,759
-Hongkong|dolar|1|HKD|2,747
+Austrálie|dolar|1|AUD|15,442
+Brazílie|real|1|BRL|4,168
+Bulharsko|lev|1|BGN|12,465
+Čína|žen-min-pi|1|CNY|3,384
+Dánsko|koruna|1|DKK|3,277
+EMU|euro|1|EUR|24,380
+Filipíny|peso|100|PHP|41,811
+Hongkong|dolar|1|HKD|2,749
 Chorvatsko|kuna|1|HRK|3,236
-Indie|rupie|100|INR|28,536
-Indonesie|rupie|1000|IDR|1,503
-Island|koruna|100|ISK|17,231
-Izrael|nový šekel|1|ILS|6,721
-Japonsko|jen|100|JPY|18,516
-Jižní Afrika|rand|1|ZAR|1,415
-Kanada|dolar|1|CAD|16,901
-Korejská republika|won|100|KRW|1,790
-Maďarsko|forint|100|HUF|6,851
-Malajsie|ringgit|1|MYR|5,119
-Mexiko|peso|1|MXN|1,051
-MMF|ZPČ|1|XDR|30,014
-Norsko|koruna|1|NOK|2,410
-Nový Zéland|dolar|1|NZD|14,241
-Polsko|zlotý|1|PLN|5,419
-Rumunsko|leu|1|RON|4,928
-Rusko|rubl|100|RUB|28,537
-Singapur|dolar|1|SGD|15,934
-Švédsko|koruna|1|SEK|2,313
-Švýcarsko|frank|1|CHF|23,168
-Thajsko|baht|100|THB|66,263
-Turecko|lira|1|TRY|1,575
-USA|dolar|1|USD|21,425
-Velká Británie|libra|1|GBP|29,022
+Indie|rupie|100|INR|28,586
+Indonesie|rupie|1000|IDR|1,498
+Island|koruna|100|ISK|17,218
+Izrael|nový šekel|1|ILS|6,729
+Japonsko|jen|100|JPY|18,636
+Jižní Afrika|rand|1|ZAR|1,435
+Kanada|dolar|1|CAD|16,881
+Korejská republika|won|100|KRW|1,792
+Maďarsko|forint|100|HUF|6,847
+Malajsie|ringgit|1|MYR|5,121
+Mexiko|peso|1|MXN|1,058
+MMF|ZPČ|1|XDR|30,081
+Norsko|koruna|1|NOK|2,408
+Nový Zéland|dolar|1|NZD|14,383
+Polsko|zlotý|1|PLN|5,410
+Rumunsko|leu|1|RON|4,932
+Rusko|rubl|100|RUB|28,214
+Singapur|dolar|1|SGD|15,958
+Švédsko|koruna|1|SEK|2,301
+Švýcarsko|frank|1|CHF|23,294
+Thajsko|baht|100|THB|66,738
+Turecko|lira|1|TRY|1,574
+USA|dolar|1|USD|21,444
+Velká Británie|libra|1|GBP|29,202
