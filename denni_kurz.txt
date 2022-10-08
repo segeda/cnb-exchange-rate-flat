@@ -1,34 +1,34 @@
-06.10.2022 #194
+07.10.2022 #195
 země|měna|množství|kód|kurz
-Austrálie|dolar|1|AUD|16,039
-Brazílie|real|1|BRL|4,787
-Bulharsko|lev|1|BGN|12,516
-Čína|žen-min-pi|1|CNY|3,490
-Dánsko|koruna|1|DKK|3,291
-EMU|euro|1|EUR|24,480
-Filipíny|peso|100|PHP|42,244
-Hongkong|dolar|1|HKD|3,163
-Chorvatsko|kuna|1|HRK|3,252
-Indie|rupie|100|INR|30,199
-Indonesie|rupie|1000|IDR|1,635
-Island|koruna|100|ISK|17,498
-Izrael|nový šekel|1|ILS|7,026
-Japonsko|jen|100|JPY|17,157
-Jižní Afrika|rand|1|ZAR|1,393
-Kanada|dolar|1|CAD|18,167
-Korejská republika|won|100|KRW|1,763
-Maďarsko|forint|100|HUF|5,794
-Malajsie|ringgit|1|MYR|5,354
-Mexiko|peso|1|MXN|1,235
-MMF|ZPČ|1|XDR|32,028
+Austrálie|dolar|1|AUD|16,063
+Brazílie|real|1|BRL|4,805
+Bulharsko|lev|1|BGN|12,534
+Čína|žen-min-pi|1|CNY|3,518
+Dánsko|koruna|1|DKK|3,296
+EMU|euro|1|EUR|24,515
+Filipíny|peso|100|PHP|42,461
+Hongkong|dolar|1|HKD|3,188
+Chorvatsko|kuna|1|HRK|3,257
+Indie|rupie|100|INR|30,443
+Indonesie|rupie|1000|IDR|1,641
+Island|koruna|100|ISK|17,424
+Izrael|nový šekel|1|ILS|7,114
+Japonsko|jen|100|JPY|17,277
+Jižní Afrika|rand|1|ZAR|1,391
+Kanada|dolar|1|CAD|18,250
+Korejská republika|won|100|KRW|1,775
+Maďarsko|forint|100|HUF|5,785
+Malajsie|ringgit|1|MYR|5,382
+Mexiko|peso|1|MXN|1,249
+MMF|ZPČ|1|XDR|32,217
 Norsko|koruna|1|NOK|2,347
-Nový Zéland|dolar|1|NZD|14,164
-Polsko|zlotý|1|PLN|5,047
-Rumunsko|leu|1|RON|4,958
-Singapur|dolar|1|SGD|17,415
-Švédsko|koruna|1|SEK|2,251
-Švýcarsko|frank|1|CHF|25,213
-Thajsko|baht|100|THB|66,544
-Turecko|lira|1|TRY|1,336
-USA|dolar|1|USD|24,828
-Velká Británie|libra|1|GBP|27,948
+Nový Zéland|dolar|1|NZD|14,148
+Polsko|zlotý|1|PLN|5,044
+Rumunsko|leu|1|RON|4,960
+Singapur|dolar|1|SGD|17,521
+Švédsko|koruna|1|SEK|2,258
+Švýcarsko|frank|1|CHF|25,278
+Thajsko|baht|100|THB|66,999
+Turecko|lira|1|TRY|1,347
+USA|dolar|1|USD|25,028
+Velká Británie|libra|1|GBP|28,051
