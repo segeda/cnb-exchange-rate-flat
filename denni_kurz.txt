@@ -1,5 +1,5 @@
 27.01.2023 #20
-země|měna|množství|kód|kurz
+Country|Currency|Amount|Code|Rate
 Austrálie|dolar|1|AUD|15,582
 Brazílie|real|1|BRL|4,325
 Bulharsko|lev|1|BGN|12,182
