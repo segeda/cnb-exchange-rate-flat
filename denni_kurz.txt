@@ -1,33 +1,33 @@
-25.08.2023 #164
+28.08.2023 #165
 země|měna|množství|kód|kurz
-Austrálie|dolar|1|AUD|14,354
-Brazílie|real|1|BRL|4,592
-Bulharsko|lev|1|BGN|12,338
+Austrálie|dolar|1|AUD|14,333
+Brazílie|real|1|BRL|4,583
+Bulharsko|lev|1|BGN|12,342
 Čína|žen-min-pi|1|CNY|3,063
-Dánsko|koruna|1|DKK|3,237
-EMU|euro|1|EUR|24,130
-Filipíny|peso|100|PHP|39,425
-Hongkong|dolar|1|HKD|2,846
-Indie|rupie|100|INR|27,020
-Indonesie|rupie|1000|IDR|1,459
-Island|koruna|100|ISK|16,862
-Izrael|nový šekel|1|ILS|5,885
-Japonsko|jen|100|JPY|15,298
+Dánsko|koruna|1|DKK|3,239
+EMU|euro|1|EUR|24,140
+Filipíny|peso|100|PHP|39,398
+Hongkong|dolar|1|HKD|2,847
+Indie|rupie|100|INR|27,035
+Indonesie|rupie|1000|IDR|1,461
+Island|koruna|100|ISK|16,964
+Izrael|nový šekel|1|ILS|5,878
+Japonsko|jen|100|JPY|15,243
 Jižní Afrika|rand|1|ZAR|1,197
-Kanada|dolar|1|CAD|16,442
-Korejská republika|won|100|KRW|1,687
-Maďarsko|forint|100|HUF|6,319
-Malajsie|ringgit|1|MYR|4,811
-Mexiko|peso|1|MXN|1,332
-MMF|ZPČ|1|XDR|29,687
-Norsko|koruna|1|NOK|2,095
-Nový Zéland|dolar|1|NZD|13,223
-Polsko|zlotý|1|PLN|5,401
-Rumunsko|leu|1|RON|4,886
-Singapur|dolar|1|SGD|16,481
+Kanada|dolar|1|CAD|16,427
+Korejská republika|won|100|KRW|1,684
+Maďarsko|forint|100|HUF|6,309
+Malajsie|ringgit|1|MYR|4,799
+Mexiko|peso|1|MXN|1,337
+MMF|ZPČ|1|XDR|29,639
+Norsko|koruna|1|NOK|2,086
+Nový Zéland|dolar|1|NZD|13,200
+Polsko|zlotý|1|PLN|5,395
+Rumunsko|leu|1|RON|4,891
+Singapur|dolar|1|SGD|16,465
 Švédsko|koruna|1|SEK|2,029
-Švýcarsko|frank|1|CHF|25,229
-Thajsko|baht|100|THB|63,702
-Turecko|lira|1|TRY|0,843
-USA|dolar|1|USD|22,323
-Velká Británie|libra|1|GBP|28,170
+Švýcarsko|frank|1|CHF|25,254
+Thajsko|baht|100|THB|63,317
+Turecko|lira|1|TRY|0,841
+USA|dolar|1|USD|22,338
+Velká Británie|libra|1|GBP|28,117
