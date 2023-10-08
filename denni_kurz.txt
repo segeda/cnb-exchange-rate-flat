@@ -1,5 +1,5 @@
 06.10.2023 #193
-země|měna|množství|kód|kurz
+Country|Currency|Amount|Code|Rate
 Austrálie|dolar|1|AUD|14,723
 Brazílie|real|1|BRL|4,480
 Bulharsko|lev|1|BGN|12,496
