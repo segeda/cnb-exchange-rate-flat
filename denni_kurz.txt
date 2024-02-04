@@ -1,5 +1,5 @@
 02.02.2024 #24
-Country|Currency|Amount|Code|Rate
+země|měna|množství|kód|kurz
 Austrálie|dolar|1|AUD|15,103
 Brazílie|real|1|BRL|4,649
 Bulharsko|lev|1|BGN|12,718
