@@ -1,33 +1,33 @@
-19.02.2024 #35
+20.02.2024 #36
 země|měna|množství|kód|kurz
-Austrálie|dolar|1|AUD|15,447
-Brazílie|real|1|BRL|4,765
-Bulharsko|lev|1|BGN|13,017
-Čína|žen-min-pi|1|CNY|3,282
-Dánsko|koruna|1|DKK|3,415
-EMU|euro|1|EUR|25,460
-Filipíny|peso|100|PHP|42,145
-Hongkong|dolar|1|HKD|3,021
-Indie|rupie|100|INR|28,458
-Indonesie|rupie|1000|IDR|1,512
-Island|koruna|100|ISK|17,122
-Izrael|nový šekel|1|ILS|6,518
-Japonsko|jen|100|JPY|15,755
-Jižní Afrika|rand|1|ZAR|1,246
-Kanada|dolar|1|CAD|17,529
-Korejská republika|won|100|KRW|1,769
-Maďarsko|forint|100|HUF|6,557
-Malajsie|ringgit|1|MYR|4,936
-Mexiko|peso|1|MXN|1,386
-MMF|ZPČ|1|XDR|31,300
-Norsko|koruna|1|NOK|2,252
-Nový Zéland|dolar|1|NZD|14,516
-Polsko|zlotý|1|PLN|5,884
-Rumunsko|leu|1|RON|5,115
-Singapur|dolar|1|SGD|17,556
+Austrálie|dolar|1|AUD|15,453
+Brazílie|real|1|BRL|4,756
+Bulharsko|lev|1|BGN|13,000
+Čína|žen-min-pi|1|CNY|3,270
+Dánsko|koruna|1|DKK|3,411
+EMU|euro|1|EUR|25,425
+Filipíny|peso|100|PHP|41,974
+Hongkong|dolar|1|HKD|3,008
+Indie|rupie|100|INR|28,367
+Indonesie|rupie|1000|IDR|1,503
+Island|koruna|100|ISK|17,144
+Izrael|nový šekel|1|ILS|6,437
+Japonsko|jen|100|JPY|15,674
+Jižní Afrika|rand|1|ZAR|1,242
+Kanada|dolar|1|CAD|17,456
+Korejská republika|won|100|KRW|1,765
+Maďarsko|forint|100|HUF|6,545
+Malajsie|ringgit|1|MYR|4,905
+Mexiko|peso|1|MXN|1,383
+MMF|ZPČ|1|XDR|31,173
+Norsko|koruna|1|NOK|2,245
+Nový Zéland|dolar|1|NZD|14,535
+Polsko|zlotý|1|PLN|5,881
+Rumunsko|leu|1|RON|5,109
+Singapur|dolar|1|SGD|17,504
 Švédsko|koruna|1|SEK|2,266
-Švýcarsko|frank|1|CHF|26,826
-Thajsko|baht|100|THB|65,566
-Turecko|lira|100|TRY|76,536
-USA|dolar|1|USD|23,627
-Velká Británie|libra|1|GBP|29,791
+Švýcarsko|frank|1|CHF|26,703
+Thajsko|baht|100|THB|65,305
+Turecko|lira|100|TRY|76,139
+USA|dolar|1|USD|23,531
+Velká Británie|libra|1|GBP|29,689
