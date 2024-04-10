@@ -1,33 +1,33 @@
-08.04.2024 #68
+09.04.2024 #69
 země|měna|množství|kód|kurz
-Austrálie|dolar|1|AUD|15,428
-Brazílie|real|1|BRL|4,625
-Bulharsko|lev|1|BGN|12,964
-Čína|žen-min-pi|1|CNY|3,239
-Dánsko|koruna|1|DKK|3,399
-EMU|euro|1|EUR|25,355
-Filipíny|peso|100|PHP|41,419
-Hongkong|dolar|1|HKD|2,991
-Indie|rupie|100|INR|28,117
-Indonesie|rupie|1000|IDR|1,478
-Island|koruna|100|ISK|16,870
-Izrael|nový šekel|1|ILS|6,336
-Japonsko|jen|100|JPY|15,418
-Jižní Afrika|rand|1|ZAR|1,258
-Kanada|dolar|1|CAD|17,228
-Korejská republika|won|100|KRW|1,726
-Maďarsko|forint|100|HUF|6,488
-Malajsie|ringgit|1|MYR|4,930
-Mexiko|peso|1|MXN|1,423
-MMF|ZPČ|1|XDR|31,057
+Austrálie|dolar|1|AUD|15,469
+Brazílie|real|1|BRL|4,657
+Bulharsko|lev|1|BGN|12,975
+Čína|žen-min-pi|1|CNY|3,229
+Dánsko|koruna|1|DKK|3,403
+EMU|euro|1|EUR|25,380
+Filipíny|peso|100|PHP|41,399
+Hongkong|dolar|1|HKD|2,982
+Indie|rupie|100|INR|28,066
+Indonesie|rupie|1000|IDR|1,474
+Island|koruna|100|ISK|16,886
+Izrael|nový šekel|1|ILS|6,332
+Japonsko|jen|100|JPY|15,383
+Jižní Afrika|rand|1|ZAR|1,263
+Kanada|dolar|1|CAD|17,204
+Korejská republika|won|100|KRW|1,725
+Maďarsko|forint|100|HUF|6,519
+Malajsie|ringgit|1|MYR|4,919
+Mexiko|peso|1|MXN|1,431
+MMF|ZPČ|1|XDR|30,956
 Norsko|koruna|1|NOK|2,188
-Nový Zéland|dolar|1|NZD|14,098
-Polsko|zlotý|1|PLN|5,929
-Rumunsko|leu|1|RON|5,103
+Nový Zéland|dolar|1|NZD|14,147
+Polsko|zlotý|1|PLN|5,966
+Rumunsko|leu|1|RON|5,108
 Singapur|dolar|1|SGD|17,356
-Švédsko|koruna|1|SEK|2,211
+Švédsko|koruna|1|SEK|2,215
 Švýcarsko|frank|1|CHF|25,849
-Thajsko|baht|100|THB|63,810
-Turecko|lira|100|TRY|72,748
-USA|dolar|1|USD|23,423
-Velká Británie|libra|1|GBP|29,550
+Thajsko|baht|100|THB|64,217
+Turecko|lira|100|TRY|72,546
+USA|dolar|1|USD|23,353
+Velká Británie|libra|1|GBP|29,621
