@@ -1,33 +1,33 @@
-03.10.2024 #193
+04.10.2024 #194
 země|měna|množství|kód|kurz
-Austrálie|dolar|1|AUD|15,723
-Brazílie|real|1|BRL|4,205
-Bulharsko|lev|1|BGN|12,961
-Čína|žen-min-pi|1|CNY|3,273
+Austrálie|dolar|1|AUD|15,717
+Brazílie|real|1|BRL|4,186
+Bulharsko|lev|1|BGN|12,958
+Čína|žen-min-pi|1|CNY|3,275
 Dánsko|koruna|1|DKK|3,398
-EMU|euro|1|EUR|25,350
-Filipíny|peso|100|PHP|40,688
-Hongkong|dolar|1|HKD|2,957
-Indie|rupie|100|INR|27,344
-Indonesie|rupie|1000|IDR|1,490
-Island|koruna|100|ISK|16,979
-Izrael|nový šekel|1|ILS|6,058
-Japonsko|jen|100|JPY|15,655
-Jižní Afrika|rand|1|ZAR|1,313
-Kanada|dolar|1|CAD|16,963
-Korejská republika|won|100|KRW|1,721
-Maďarsko|forint|100|HUF|6,315
-Malajsie|ringgit|1|MYR|5,441
-Mexiko|peso|1|MXN|1,178
-MMF|ZPČ|1|XDR|30,971
-Norsko|koruna|1|NOK|2,163
-Nový Zéland|dolar|1|NZD|14,283
-Polsko|zlotý|1|PLN|5,887
-Rumunsko|leu|1|RON|5,094
-Singapur|dolar|1|SGD|17,711
-Švédsko|koruna|1|SEK|2,232
-Švýcarsko|frank|1|CHF|27,007
-Thajsko|baht|100|THB|69,312
-Turecko|lira|100|TRY|67,251
-USA|dolar|1|USD|22,968
-Velká Británie|libra|1|GBP|30,101
+EMU|euro|1|EUR|25,345
+Filipíny|peso|100|PHP|40,800
+Hongkong|dolar|1|HKD|2,960
+Indie|rupie|100|INR|27,366
+Indonesie|rupie|1000|IDR|1,484
+Island|koruna|100|ISK|16,999
+Izrael|nový šekel|1|ILS|6,030
+Japonsko|jen|100|JPY|15,681
+Jižní Afrika|rand|1|ZAR|1,315
+Kanada|dolar|1|CAD|16,951
+Korejská republika|won|100|KRW|1,715
+Maďarsko|forint|100|HUF|6,316
+Malajsie|ringgit|1|MYR|5,446
+Mexiko|peso|1|MXN|1,190
+MMF|ZPČ|1|XDR|30,904
+Norsko|koruna|1|NOK|2,169
+Nový Zéland|dolar|1|NZD|14,255
+Polsko|zlotý|1|PLN|5,874
+Rumunsko|leu|1|RON|5,092
+Singapur|dolar|1|SGD|17,706
+Švédsko|koruna|1|SEK|2,235
+Švýcarsko|frank|1|CHF|26,983
+Thajsko|baht|100|THB|69,478
+Turecko|lira|100|TRY|67,104
+USA|dolar|1|USD|22,982
+Velká Británie|libra|1|GBP|30,260
