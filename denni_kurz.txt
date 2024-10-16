@@ -1,33 +1,33 @@
-14.10.2024 #200
+15.10.2024 #201
 země|měna|množství|kód|kurz
-Austrálie|dolar|1|AUD|15,539
-Brazílie|real|1|BRL|4,107
-Bulharsko|lev|1|BGN|12,915
-Čína|žen-min-pi|1|CNY|3,267
-Dánsko|koruna|1|DKK|3,385
-EMU|euro|1|EUR|25,260
-Filipíny|peso|100|PHP|40,272
-Hongkong|dolar|1|HKD|2,982
-Indie|rupie|100|INR|27,539
-Indonesie|rupie|1000|IDR|1,488
-Island|koruna|100|ISK|16,919
-Izrael|nový šekel|1|ILS|6,158
-Japonsko|jen|100|JPY|15,458
-Jižní Afrika|rand|1|ZAR|1,318
-Kanada|dolar|1|CAD|16,781
-Korejská republika|won|100|KRW|1,702
+Austrálie|dolar|1|AUD|15,546
+Brazílie|real|1|BRL|4,135
+Bulharsko|lev|1|BGN|12,905
+Čína|žen-min-pi|1|CNY|3,254
+Dánsko|koruna|1|DKK|3,383
+EMU|euro|1|EUR|25,240
+Filipíny|peso|100|PHP|40,015
+Hongkong|dolar|1|HKD|2,980
+Indie|rupie|100|INR|27,543
+Indonesie|rupie|1000|IDR|1,486
+Island|koruna|100|ISK|16,906
+Izrael|nový šekel|1|ILS|6,170
+Japonsko|jen|100|JPY|15,503
+Jižní Afrika|rand|1|ZAR|1,316
+Kanada|dolar|1|CAD|16,753
+Korejská republika|won|100|KRW|1,701
 Maďarsko|forint|100|HUF|6,303
-Malajsie|ringgit|1|MYR|5,389
-Mexiko|peso|1|MXN|1,201
-MMF|ZPČ|1|XDR|30,973
-Norsko|koruna|1|NOK|2,149
-Nový Zéland|dolar|1|NZD|14,067
-Polsko|zlotý|1|PLN|5,889
-Rumunsko|leu|1|RON|5,078
-Singapur|dolar|1|SGD|17,692
-Švédsko|koruna|1|SEK|2,221
-Švýcarsko|frank|1|CHF|26,829
-Thajsko|baht|100|THB|69,577
-Turecko|lira|100|TRY|67,531
+Malajsie|ringgit|1|MYR|5,371
+Mexiko|peso|1|MXN|1,189
+MMF|ZPČ|1|XDR|30,974
+Norsko|koruna|1|NOK|2,144
+Nový Zéland|dolar|1|NZD|14,102
+Polsko|zlotý|1|PLN|5,878
+Rumunsko|leu|1|RON|5,072
+Singapur|dolar|1|SGD|17,686
+Švédsko|koruna|1|SEK|2,233
+Švýcarsko|frank|1|CHF|26,850
+Thajsko|baht|100|THB|69,432
+Turecko|lira|100|TRY|67,564
 USA|dolar|1|USD|23,146
-Velká Británie|libra|1|GBP|30,192
+Velká Británie|libra|1|GBP|30,274
