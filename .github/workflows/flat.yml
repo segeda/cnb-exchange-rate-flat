@@ -16,14 +16,14 @@ jobs:
         with:
           deno-version: v2.x
       - name: Check out repo
-        uses: actions/checkout@v3.5.3
+        uses: actions/checkout@v4
       - name: Fetch TXT
-        uses: githubocto/flat@v3.4.0
+        uses: githubocto/flat@v3
         with:
           http_url: https://www.cnb.cz/cs/financni-trhy/devizovy-trh/kurzy-devizoveho-trhu/kurzy-devizoveho-trhu/denni_kurz.txt
           downloaded_filename: denni_kurz.txt
       - name: Fetch and postprocess XML
-        uses: githubocto/flat@v3.4.0
+        uses: githubocto/flat@v3
         with:
           http_url: https://www.cnb.cz/cs/financni-trhy/devizovy-trh/kurzy-devizoveho-trhu/kurzy-devizoveho-trhu/denni_kurz.xml
           downloaded_filename: denni_kurz.xml
